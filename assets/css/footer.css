@@ -1,6 +1,6 @@
 #footer {
-  background-color: var(--color-secondary);
-  padding: 3rem 0 12rem 0;
+  background-color: var(--color-primary);
+  padding: 3rem 0 6rem 0;
 }
 .footer-social {
   margin-top: 2rem;
