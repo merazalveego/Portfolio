@@ -33,7 +33,7 @@
 }
 .about__card {
   color: #000;
-  background-color: #fff;
+  background-color: #808080;
   border: 2px solid #ff0000;
   border-radius: 1rem;
   padding: 1.5rem;
@@ -41,9 +41,9 @@
   transition: var(--transition);
 }
 .about__card:hover {
-  color: #fff;
+  color: #808080;
   background-color: transparent;
-  border: 1px solid #ff0000;
+  border: 2px solid #ff0000;
   transition: var(--transition);
 }
 .about__card i {
