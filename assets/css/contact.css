@@ -1,7 +1,7 @@
 #contact input,
 #contact textarea {
   width: 100%;
-  background-color: #fff;
+  background-color: transparent;
   border: 2px solid #ff0000;
   height: 60px;
   margin-bottom: 20px;
