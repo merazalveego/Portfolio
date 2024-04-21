@@ -16,7 +16,7 @@
 @import url(./assets/css/responsive/tablet.css);
 
 :root {
-  --color-bg: #0d2a47;
+  --color-bg: #000000;
   --color-bg-varient: #1d466f;
   --color-primary: #FFFC00;
   --color-secondary: #b1b3f8;
@@ -30,7 +30,6 @@ body {
   background-color: var(--color-bg);
   font-family: "Poppins", sans-serif;
   color: var(--color-white);
-  background-image: url(./assets/image/Background-Pattern.png);
 }
 
 h1,
