@@ -13,15 +13,17 @@
   border-radius: 50px;
 }
 .testimonials {
-  background-color: var(--color-bg-varient);
+  background-color: #fff;
   padding: 20px;
   padding-bottom: 5px;
   border-radius: 1rem;
 }
 .testimonials h6 {
+  color: #000;
   font-size: 14px;
 }
 .testimonials p {
+  color: #000;
   font-size: 14px;
 }
 .swiper-pagination-bullet-active {
