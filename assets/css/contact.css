@@ -19,6 +19,7 @@
   border-radius: 5px;
   outline: none;
   border: none;
+  weight: 100%;
 }
 .my-contact-form-btn:hover {
   background-color: white;
