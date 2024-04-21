@@ -2,7 +2,7 @@
 #contact textarea {
   width: 100%;
   background-color: transparent;
-  border: 1px solid var(--color-bg-varient);
+  border: 2px solid #fff;
   height: 60px;
   margin-bottom: 20px;
   border-radius: 10px;
