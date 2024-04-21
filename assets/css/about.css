@@ -48,7 +48,7 @@
 }
 .about__card i {
   font-size: 2rem;
-  color: #000;
+  color: #fff;
 }
 .about__card h4 {
   margin-top: 1rem;
@@ -56,7 +56,7 @@
 }
 .about__card small {
   font-weight: 400;
-  color: var(--color-lighrt);
+  color: #fff;
 }
 .about__content p {
   margin: 2rem 0 2.7rem 0;
